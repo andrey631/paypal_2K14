@@ -32,7 +32,7 @@ add_action( 'admin_menu', 'setMenuPage' );
 
 function setMenuPage(){
 	add_menu_page( 'Paypal', 'Paypal', 'level_10', 'paypal',array('Paypal_Admin','maintpl'));
-	test
+	dsaddddddddddddddddddddddddddddddddddddddddddddddddd
 }
 
 
